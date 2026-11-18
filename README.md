@@ -30,3 +30,6 @@ KPI Development & Performance Analysis
 
 Tools
 Power BI | Power Query | DAX
+
+Download the PowerBI file and original data by clicking below URL: 
+https://github.com/Jocuspan/Bank-Transaction-Analysis-PowerBI/releases
